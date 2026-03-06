@@ -1,0 +1,11 @@
+x = int(input("nhap vao so nguyen x: "))
+y = int(input("nhap vao so nguyen y: "))
+c = str(input("nhap vao ki tu c: "))
+f = float(input("nhap vao so thuc f: "))
+d = float(input("nhap vao so thuc d: "))
+
+print(x)
+print(y)
+print(c)
+print("%.2f" %f)
+print(f"{d:.9f}")
