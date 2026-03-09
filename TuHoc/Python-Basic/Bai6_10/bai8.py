@@ -1,0 +1,5 @@
+a,b = map(int ,input("Nhập 2 số nguyên: ").split())
+print("%.4f" %(a+b))
+print("%.4f" %(a-b)) 
+print("%.4f" %(a*b))
+print("%.4f" %(a/b))   
